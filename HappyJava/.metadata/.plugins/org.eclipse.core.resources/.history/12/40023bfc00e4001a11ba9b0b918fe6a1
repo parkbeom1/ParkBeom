@@ -1,0 +1,14 @@
+
+class Pbase {
+	int p = 100;
+}
+class Cbase extends Pbase {
+	
+}
+public class Inherit_Poly2 {
+
+	public static void main(String[] args) {
+
+	}
+
+}

@@ -1,0 +1,17 @@
+
+/*
+	Bird를 상속 받아서 구현 한다.
+	Protected : 상속 관계에서 재정의를 해줘도 되고 안해줘도 된다. ( 선택사항 )	
+*/
+class Bi extends Bird2 {
+	
+	
+}
+
+
+
+public class Protected {
+	public static void main(String[] args) {
+		
+	}
+}

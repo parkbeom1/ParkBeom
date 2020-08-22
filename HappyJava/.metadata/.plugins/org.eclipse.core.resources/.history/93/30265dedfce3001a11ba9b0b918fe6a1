@@ -1,0 +1,6 @@
+
+public class Pclass {
+	public int j; 
+	protected int k; 
+	int p; // default
+}
